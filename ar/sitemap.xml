@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/ar/categories/</loc>
-=======
-    <loc>https://nkklls01.github.io/ar/categories/</loc>
->>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,7 +19,6 @@
                 href="http://localhost:1313/ar/categories/"
                 />
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ar/</loc>
-=======
-    <loc>https://nkklls01.github.io/ar/tags/</loc>
->>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,25 +52,5 @@
                 hreflang="ar"
                 href="http://localhost:1313/ar/"
                 />
-<<<<<<< HEAD
-=======
-  </url><url>
-    <loc>https://nkklls01.github.io/ar/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nkklls01.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://nkklls01.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://nkklls01.github.io/ar/"
-                />
->>>>>>> 20a753d834c7609f91327fc419f3da1484194919
   </url>
 </urlset>
