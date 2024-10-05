@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/zh-cn/</loc>
+=======
+    <loc>https://nkklls01.github.io/zh-cn/</loc>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +23,11 @@
                 href="http://localhost:1313/zh-cn/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/zh-cn/categories/</loc>
+=======
+    <loc>https://nkklls01.github.io/zh-cn/categories/</loc>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,15 +44,24 @@
                 href="http://localhost:1313/zh-cn/categories/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/page/"
+=======
+    <loc>https://nkklls01.github.io/zh-cn/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nkklls01.github.io/page/"
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
                 href="http://localhost:1313/zh-cn/page/"
                 />
   </url><url>
@@ -53,15 +70,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/"
+=======
+                href="https://nkklls01.github.io/zh-cn/page/"
+                />
+  </url><url>
+    <loc>https://nkklls01.github.io/zh-cn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nkklls01.github.io/tags/"
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
+<<<<<<< HEAD
                 href="http://localhost:1313/ar/tags/"
+=======
+                href="https://nkklls01.github.io/ar/tags/"
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
                 href="http://localhost:1313/zh-cn/tags/"
                 />
   </url><url>
@@ -70,11 +102,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/about/"
+=======
+                href="https://nkklls01.github.io/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://nkklls01.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nkklls01.github.io/about/"
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+<<<<<<< HEAD
                 href="http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/"
+=======
+                href="https://nkklls01.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
                 />
   </url>
 </urlset>

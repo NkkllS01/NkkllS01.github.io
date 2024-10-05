@@ -7,21 +7,37 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>NkkllS</copyright>
+<<<<<<< HEAD
         <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
         <link>http://localhost:1313/about/</link>
         <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/about/</guid>
+=======
+        <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nkklls01.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://nkklls01.github.io/about/</link>
+        <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://nkklls01.github.io/about/</guid>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
         <description>&lt;p&gt;My name is Zijie Gao,I am a student currently studying Systems Analysis at the ISS College of the National University of Singapore. This is my first time using GitHub to create my own blog, where I will share some of my study notes and other content. Thank you for reading!&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
+<<<<<<< HEAD
         <link>http://localhost:1313/archives/</link>
         <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/archives/</guid>
+=======
+        <link>https://nkklls01.github.io/archives/</link>
+        <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://nkklls01.github.io/archives/</guid>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
         <description></description>
         </item>
         <item>

@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/</loc>
+=======
+    <loc>https://nkklls01.github.io/</loc>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -20,6 +24,7 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -66,10 +71,19 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/ar/categories/"
+=======
+    <loc>https://nkklls01.github.io/about/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://nkklls01.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
@@ -89,6 +103,34 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+=======
+                href="https://nkklls01.github.io/about/"
+                />
+  </url><url>
+    <loc>https://nkklls01.github.io/archives/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nkklls01.github.io/page/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://nkklls01.github.io/zh-cn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nkklls01.github.io/page/"
+                />
+  </url><url>
+    <loc>https://nkklls01.github.io/p/myfirstblog/</loc>
+    <lastmod>2024-10-01T21:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://nkklls01.github.io/post/</loc>
+    <lastmod>2024-10-01T21:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://nkklls01.github.io/categories/</loc>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -116,6 +158,41 @@
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/categories/test/</loc>
+=======
+    <loc>https://nkklls01.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nkklls01.github.io/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://nkklls01.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://nkklls01.github.io/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nkklls01.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://nkklls01.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nkklls01.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nkklls01.github.io/links/</loc>
+  </url><url>
+    <loc>https://nkklls01.github.io/search/</loc>
+  </url><url>
+    <loc>https://nkklls01.github.io/categories/test/</loc>
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
   </url>
 </urlset>

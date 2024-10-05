@@ -6,6 +6,10 @@
         <description>Recent content on موقع تجريبي</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ar</language>
+<<<<<<< HEAD
         <copyright>NkkllS</copyright><atom:link href="http://localhost:1313/ar/index.xml" rel="self" type="application/rss+xml" />
+=======
+        <copyright>NkkllS</copyright><atom:link href="https://nkklls01.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 20a753d834c7609f91327fc419f3da1484194919
     </channel>
 </rss>
